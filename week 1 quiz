@@ -1,0 +1,17 @@
+
+1. What is DHCP used for?
+Ans: It is a network protocol used to assign IP addresses.
+2. What is an SSH server?
+Ans: A program which responds to incoming ssh requests
+3. When an ssh client is invoked at the command-line with the “ssh” command, what other argument must be provided on the command line?
+Ans: A domain name or IP address to connect to
+4. What command will reveal the IP address of your Raspberry Pi?
+Ans: ifconfig
+5. What is a fair definition of the term "protocol"?
+Ans: A set of rules for communication
+6. What does an IP address uniquely identify?
+Ans: A host communicating on the Internet
+7. How big is a port TCP/UDP number?
+Ans: 16 bits
+8. The nslookup command will show the IP address corresponding to a given domain name.
+Ans: True

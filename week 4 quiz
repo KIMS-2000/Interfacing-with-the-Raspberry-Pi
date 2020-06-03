@@ -1,0 +1,17 @@
+
+1. What is the name of the Python package used to control the Raspberry Pi camera module?
+Ans: picamera
+2. What function in the camera library is used to take a picture?¶
+Ans: capture()
+3. What is a “duty cycle”?
+Ans: The fraction of time a square wave is high
+4. Why is pulse width modulation useful?
+Ans: It can be used to mimic an analog signal
+5. How many input wires does a servo have?
+Ans: 3
+6. Why is it common to use an external power supply to drive a servo?
+Ans: A servo needs more current than a microcontroller can provide
+7. The CSI camera interface of the Raspberry Pi needs to be activated before using the camera module.
+Ans: True
+8. The speed of a servo motor is easily controlled.
+Ans: False

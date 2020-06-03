@@ -1,0 +1,17 @@
+
+1. What is a difference between clients and servers on the Internet?
+Ans: Clients initiate requests for service
+2. What Python function is used to perform a DNS lookup?
+Ans: gethostbyname()
+3. What Python function is used by the client to establish a connection between sockets?
+Ans: connect()
+4. The recv() function performs a non-blocking wait, by default.
+Ans: False
+5. When is the code inside an except clause executed?
+Ans: When code inside the associated try clause causes an appropriate exception
+6. Binding a socket on the server-side requires what information?
+Ans: The port number for communication
+7. What is a “live” server?
+Ans: A server that serves many requests over a long time
+8. Sockets can be used to communicate between two Raspberry Pis.
+Ans: True
